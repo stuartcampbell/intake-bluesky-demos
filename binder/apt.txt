@@ -1,4 +1,5 @@
+default-jre
 mongodb-server
 libsnappy-dev
 supervisor
-zookeeper
+zookeeperd
